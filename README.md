@@ -9,7 +9,7 @@ I believe the core logic is solid, and the component effectively fulfills the de
 If I were to revisit this project, I would pay closer attention to the design details. For inspiration, I looked at some Dribbble layouts—particularly this one:  
 [Teamwork.com Project Timeline View](https://dribbble.com/shots/25439137-Teamwork-com-Project-Timeline-View)
 
-From a code perspective, I would better separate the logic and helper functions (like date parsing and calculations) for improved maintainability and clarity.
+From a code perspective, I would better separate the logic and helper functions (like date parsing and calculations) for improved maintainability and clarity and also focus on responsiveness.
 
 I focused on implementing the features that could be delivered in the available time: zooming in and out, and the ability to edit timeline items inline. However, very short items don’t yet handle text display well. For these, I would consider adding a modal or popup to display the full content, which I couldn’t implement due to time constraints.
 
