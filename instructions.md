@@ -1,14 +1,14 @@
 # Airtable timeline assignment
 
-## Expected implementation time:
+## Expected implementation time
 
 4 hours
 
-## High level objective:
+## High level objective
 
 Design and implement a component for visualizing items on a timeline.
 
-## Details:
+## Details
 
 Your timeline component should arrange items in horizontal lanes. These items should be laid out in a compact, space-efficient way: if item A ends before item B starts, they can share a lane instead of being rendered on separate lanes. You may want to slightly relax this constraint to fit in the name of the event (for example, if an item is too short, or the item’s name is too long).
 
@@ -39,7 +39,7 @@ What we’re looking for:
 - Clean, readable, maintainable code.
 - A sensible user experience and design for the final product.
 
-## Starter code:
+## Starter code
 
 1. Navigate to this project directory
 2. Run `npm install` to install dependencies
